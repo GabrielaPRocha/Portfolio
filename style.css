@@ -295,6 +295,7 @@ header {
 }
 
 .projetos {
+    background-color:rgb(238, 220, 220);
     display: flex;
     justify-content: space-evenly;
 }
